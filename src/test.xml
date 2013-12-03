@@ -1,0 +1,172 @@
+<table width='100%' cellpadding='4' cellspacing='0' border='1'bordercolor='#FFFFFF'><tr bgcolor="#CCCCCC"><td><div align="center"><font color=#9A32CD size=3>操作记录</font></div></td><td><div align="center"><font color=#9A32CD size=3>次数</font></td></tr>
+	<tr bgcolor=#FFF0F5><td><div align="center"><font colorblack size=2>提案</font></td><td><div align="center"><font color=black size=2>0</font></td></tr>
+	<tr bgcolor=#F0F0F0>
+		<td>
+			<div align="center">
+				<font colorblack size=2>社情民意</font>
+		</td>
+		<td>
+			<div align="center">
+				<font color=black size=2>0</font>
+		</td>
+	</tr>
+	<tr bgcolor=#FFF0F5>
+		<td>
+			<div align="center">
+				<font colorblack size=2>会议发言</font>
+		</td>
+		<td>
+			<div align="center">
+				<font color=black size=2>0</font>
+		</td>
+	</tr>
+	<tr bgcolor=#F0F0F0>
+		<td>
+			<div align="center">
+				<font colorblack size=2>委组调研</font>
+		</td>
+		<td>
+			<div align="center">
+				<font color=black size=2>0</font>
+		</td>
+	</tr>
+	<tr bgcolor=#FFF0F5>
+		<td>
+			<div align="center">
+				<font colorblack size=2>政协论坛</font>
+		</td>
+		<td>
+			<div align="center">
+				<font color=black size=2>0</font>
+		</td>
+	</tr>
+	<tr bgcolor=#F0F0F0>
+		<td>
+			<div align="center">
+				<font colorblack size=2>表彰记录</font>
+		</td>
+		<td>
+			<div align="center">
+				<font color=black size=2>0</font>
+		</td>
+	</tr>
+	<tr bgcolor=#FFF0F5>
+		<td>
+			<div align="center">
+				<font colorblack size=2>光彩事业</font>
+		</td>
+		<td>
+			<div align="center">
+				<font color=black size=2>0</font>
+		</td>
+	</tr>
+	<table width='100%' cellpadding='4' cellspacing='0' border='1'bordercolor='#FFFFFF'>
+		<tr bgcolor="#CCCCCC">
+			<td>
+				<div align="center">
+					<font color=#9A32CD size=3>类型</font>
+				</div>
+			</td>
+			<td>
+				<div align="center">
+					<font color=#9A32CD size=3>应到</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=#9A32CD size=3>实到</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=#9A32CD size=3>出席率</font>
+			</td>
+		</tr>
+		<tr bgcolor=#FFF0F5>
+			<td>
+				<div align="center">
+					<font colorblack size=2>会议</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>2</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>2</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>100.00%</font>
+			</td>
+		</tr>
+		<tr bgcolor=#F0F0F0>
+			<td>
+				<div align="center">
+					<font colorblack size=2>会议</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>2</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>2</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>100.00%</font>
+			</td>
+		</tr>
+		<tr bgcolor=#FFF0F5>
+			<td>
+				<div align="center">
+					<font colorblack size=2>委组活动</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0.00%</font>
+			</td>
+		</tr>
+		<tr bgcolor=#F0F0F0>
+			<td>
+				<div align="center">
+					<font colorblack size=2>监督员活动</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0.00%</font>
+			</td>
+		</tr>
+		<tr bgcolor=#FFF0F5>
+			<td>
+				<div align="center">
+					<font colorblack size=2>其他活动</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0</font>
+			</td>
+			<td>
+				<div align="center">
+					<font color=black size=2>0.00%</font>
+			</td>
+		</tr>

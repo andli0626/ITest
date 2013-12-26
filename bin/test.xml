@@ -6,161 +6,86 @@
 			<Description></Description>
 		</ReturnInfo>
 		<UserArea>
-			<PageInfo>
-				<TotalNumCount>1695</TotalNumCount>
-			</PageInfo>
-			<InfoList>
-				<Info>
-					<InfoID>0d63c7d9-650c-4fe7-9480-a610e0476616</InfoID>
-					<Title><![CDATA[身边这点事]]></Title>
-					<InfoDate>2013-07-30 01:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>f41267db-ec24-4303-9c62-dad5b504b5a1</InfoID>
-					<Title><![CDATA[科普讲坛进军营活动启动]]></Title>
-					<InfoDate>2013-07-30 02:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>23de5520-032a-4360-b3ee-d0401c30d27a</InfoID>
-					<Title><![CDATA[实事工程惠百姓 残疾人群享“阳光”]]></Title>
-					<InfoDate>2013-07-30 03:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>bee377e1-4712-428f-9531-f9b9ed546966</InfoID>
-					<Title><![CDATA[“八一”前夕区领导慰问驻区部队]]></Title>
-					<InfoDate>2013-07-30 04:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>f2055d8c-1228-46e3-b6dd-d90c914f66a1</InfoID>
-					<Title><![CDATA[黄浦区一届人大五次会议主席团举行第一次会议]]></Title>
-					<InfoDate>2013-07-30 05:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>1873511e-8598-4dd1-b541-1620c1a6d471</InfoID>
-					<Title><![CDATA[黄浦区第一届人民代表大会第五次会议]]></Title>
-					<InfoDate>2013-07-30 06:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>ea7c6ba1-51bc-40bc-a6ea-039e6d48962c</InfoID>
-					<Title><![CDATA[黄浦区第一届人民代表大会第五次会议开幕]]></Title>
-					<InfoDate>2013-07-30 07:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>6c59f6df-6f0f-46fc-822d-6ec237219d36</InfoID>
-					<Title><![CDATA[黄浦区政协一届四次会议召开]]></Title>
-					<InfoDate>2013-07-29 10:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>89b0dc99-d90f-459b-a919-21c78ca49249</InfoID>
-					<Title><![CDATA[身边这点事]]></Title>
-					<InfoDate>2013-07-29 01:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>7720eb0c-fda4-4fd3-a8e7-287b8355c8f8</InfoID>
-					<Title><![CDATA[区牙防所进行全口义齿安装回访]]></Title>
-					<InfoDate>2013-07-29 02:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>87a29249-1f61-4a5e-9286-a98d96de47e6</InfoID>
-					<Title><![CDATA[淮海中路街道举行健康讲座]]></Title>
-					<InfoDate>2013-07-29 03:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>445505c0-45b1-462c-9a02-b0672a4b3d47</InfoID>
-					<Title><![CDATA[“呵护青春”志愿服务行动 走进社区送演出送清凉]]></Title>
-					<InfoDate>2013-07-29 04:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>9ac795e8-65e2-4971-a932-6b37490c2c8f</InfoID>
-					<Title><![CDATA[防网络诈骗讲座走进白领年轻人]]></Title>
-					<InfoDate>2013-07-29 05:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>614e34ae-7914-4785-b130-ac1663d0eec3</InfoID>
-					<Title><![CDATA[女作家袁宜彤参加我区公益读书沙龙活动]]></Title>
-					<InfoDate>2013-07-29 06:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-				<Info>
-					<InfoID>61d3d60e-6875-45a6-8b26-9d7bec53437d</InfoID>
-					<Title><![CDATA[黄浦区：提前排摸社区搭台 做好应届毕业生就业工作]]></Title>
-					<InfoDate>2013-07-29 07:00</InfoDate>
-					<IsAttach>1</IsAttach>
-					<HeadNewsAttachGuid></HeadNewsAttachGuid>
-					<BigImgGuid>_Big</BigImgGuid>
-					<SmallImgGuid1>_Small1</SmallImgGuid1>
-					<SmallImgGuid2>_Small2</SmallImgGuid2>
-				</Info>
-			</InfoList>
+			<SingleFile>
+				<AttGuid>a2a80a5f-9779-4ced-9de8-2f433e34dce6</AttGuid>
+				<AttFileName>20131007153124148.jpg</AttFileName>
+				<Content>
+					10月6日上午大雨滂沱，但人们仍冒雨
+				</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>6a2b651e-1619-4be2-8056-dd4b587b23c5</AttGuid>
+				<AttFileName>20131007153107228.jpg</AttFileName>
+				<Content>参加上海外滩广场海誓山盟  爱在黄浦江，</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>339c7008-e0a3-4fc7-8a82-1e02ddaf3e2f</AttGuid>
+				<AttFileName>20131007153018391.jpg</AttFileName>
+				<Content>情定长白山2013玫瑰婚典启动仪式，新人</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>d55072c7-bb28-4985-88bf-3361bdb517ce</AttGuid>
+				<AttFileName>20131007152955785.jpg</AttFileName>
+				<Content>们在这里巧扮新妆、举行盛大的证婚仪式后，</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>5d61a511-f9d0-4bba-83a5-715bb437b137</AttGuid>
+				<AttFileName>20131007152933127.jpg</AttFileName>
+				<Content>将面对浦江牵手吟诵爱的誓言……10月7日</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>e10bc8fe-4999-4468-92fb-99d5ac7921cb</AttGuid>
+				<AttFileName>20131007152912107.jpg</AttFileName>
+				<Content>下午新人们将登上吉林长白山，在有着“长相</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>e0616f32-f2fe-4e95-8a39-ad5806e10d32</AttGuid>
+				<AttFileName>20131007153154963.jpg</AttFileName>
+				<Content>守、到白头”美好寓意的长白山上，对对新人</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>dedb2411-2241-4a36-9b62-02f524a47fb0</AttGuid>
+				<AttFileName>20131007152839910.jpg</AttFileName>
+				<Content>相伴举行祈福仪式，用心签署他们爱的盟约，</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>452e1aed-ad6a-4e53-9beb-8f746de39eaa</AttGuid>
+				<AttFileName>20131007152821436.jpg</AttFileName>
+				<Content>“爱你一辈子，让爱天长地久!”
+
+					 
+				</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>766dbb50-96da-44cb-a96e-5d0548dda3de</AttGuid>
+				<AttFileName>20131007152805198.jpg</AttFileName>
+				<Content>
+
+					 
+
+					 
+
+					 
+
+					 
+				</Content>
+			</SingleFile>
+			<SingleFile>
+				<AttGuid>77a791f6-0aed-4c7c-9e40-cb6f060bc328</AttGuid>
+				<AttFileName>20131007152741112.jpg</AttFileName>
+				<Content>
+
+					 
+
+					 
+
+					 
+
+					 
+
+					 
+				</Content>
+			</SingleFile>
 		</UserArea>
 	</DATA>
 </EpointDataBody>

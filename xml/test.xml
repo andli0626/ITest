@@ -1,16 +1,5 @@
-<?xml version="1.0" encoding="gb2312" ?>
-<EpointDataBody>
-	<DATA>
-		<ReturnInfo>
-			<Status>True</Status>
-			<Description></Description>
-		</ReturnInfo>
-		<UserArea>
-			<Title>ceshi</Title>
-			<PostDate>2013-09-09</PostDate>
-			<Content>dddd</Content>
-			<HandleDate>2013-09-24</HandleDate>
-			<Reply>档案咨询可以前往广西北路158号18楼接待处</Reply>
-		</UserArea>
-	</DATA>
-</EpointDataBody>
+<iq type='result' id='uid:52cb9e64:57347422' to='test@openfire/5a32f5cb'>
+	<query xmlns='jabber:iq:private'>
+		<roster xmlns='roster:delimiter' />
+	</query>
+</iq>

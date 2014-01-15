@@ -1,5 +1,25 @@
-<iq type='result' id='uid:52cb9e64:57347422' to='test@openfire/5a32f5cb'>
-	<query xmlns='jabber:iq:private'>
-		<roster xmlns='roster:delimiter' />
-	</query>
-</iq>
+<?xml version="1.0" encoding="utf-8"?>
+<EpointData>
+	<DataArea>
+		<UserInfo>
+			<BasicInfo>
+				<STATUS>0</STATUS>
+				<UserGuid>42e7817b-aead-42cd-ad2b-4c68f5e283ae</UserGuid>
+				<PAD>359365007754017</PAD>
+			</BasicInfo>
+		</UserInfo>
+	</DataArea>
+</EpointData>
+
+<?xml version="1.0" encoding="utf-8"?>
+<EpointData>
+	<DataArea>
+		<ProjectInfo>
+			<BasicInfo>
+				<STATUS>1</STATUS>
+				<FLOWSN>ZJG201401140001</FLOWSN>
+				<PAD>359365007754017</PAD>
+			</BasicInfo>
+		</ProjectInfo>
+	</DataArea>
+</EpointData>
